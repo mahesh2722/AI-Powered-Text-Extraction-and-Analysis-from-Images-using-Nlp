@@ -1,0 +1,2 @@
+# AI-Powered-Text-Extraction-and-Analysis-from-Images-using-Nlp
+Developed an AI-powered system for extracting and analyzing text from images using OCR (Tesseract) and NLP (NLTK). The project automates tasks like text extraction, summarization, and structured data organization, enabling quick insights and enhanced productivity. Applicable in areas such as document analysis, research, and business intelligence.
